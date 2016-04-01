@@ -86,8 +86,8 @@
   <h3>Kickstart Benefits for Employers</h3>
   <h4>
   
-  &nbsp;*&nbsp;&nbsp;30 Days person replacement warrenty<br>
-  &nbsp;*&nbsp;&nbsp;Find right candidate for current opening in company<br>
+  &nbsp;*&nbsp;&nbsp;30 Days person replacement warranty<br>
+  &nbsp;*&nbsp;&nbsp;Find right candidate for current opening in the company<br>
   <br>
   
 </h4>

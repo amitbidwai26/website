@@ -85,50 +85,13 @@
 	          <h2 class="head__12">
 	          <br>
 	            Submit your requirement by filling form</h2>
-	   <?php 
-	if(isset($_POST['submit'])){
-	    $to = "amit@bidwai.in"; // this is your Email address
-	    $from = $_POST['email']; // this is the sender's Email address
-	    $name = $_POST['name'];
-	    $company_name = $_POST['company_name'];
-	    $phone=$_POST['phone'];
-	    $email=$_POST['email'];
-	    
-	
-	    $house_keeping=$_POST['house_keeping'];
-	    $delivery=$_POST['delivery'];
-	    $sales=$_POST['sales'];
-	    $marketing=$_POST['marketing'];
-	    $hotel_staff=$_POST['hotel_staff'];
-	    $customer_support=$_POST['customer_support'];
-
-
-
-
-
-
-
-
-	    $subject = "Form submission";
-	    $subject2 = "Copy of your form submission";
-	    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
-	    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
-
-	    $headers = "From:" . $from;
-	    $headers2 = "From:" . $to;
-	    mail($to,$subject,$message,$headers);
-	    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
-	    echo "Mail Sent. Thank you " . $first_name . ", We will contact you shortly.";
-	    // You can also use header('Location: thank_you.php'); to redirect to another page.
-	    }
-	?>
-	<form action="" method="post">
+	<form action="formsubmit.php" method="post">
 	<table align="left">
 	<tr>
-	        <td   class="form_table">Person Name:</td>   <td colspan="4"  class="form_table"><input type="text" name="name" size="40"></td>
+	        <td   class="form_table">Person Name:</td>   <td colspan="4"  class="form_table"><input type="text" name="name" size="40" required=""></td>
 	</tr>
 	<tr>
-		<td  class="form_table">Phone Number: </td><td colspan="4"  class="form_table"><input type="text" name="phone" size="40"></td>
+		<td  class="form_table">Phone Number: </td><td colspan="4"  class="form_table"><input type="text" name="phone" size="40" required=""></td>
 	</tr>
 	<tr>
 		<td   class="form_table">Email: </td><td colspan="4"  class="form_table"><input type="text" name="email" size="40"></td>
