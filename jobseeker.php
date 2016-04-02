@@ -67,10 +67,17 @@
 ======================-->
 <section id="content"><div class="ic"></div>
   <div class="container">
-    <div class="row">
-      <div class="grid_12">
+  <div class="grid_12">
         <h3>Kick Start for Jobseekers</h3>    
       </div>
+      
+        <h4>&nbsp;*&nbsp;&nbsp;Kickstart leader to guide you to your best job</h4><br>
+        <h4>&nbsp;*&nbsp;&nbsp;Only jobs which are most suitable for you, high chance of selection</h4><br>
+        <h4>&nbsp;*&nbsp;&nbsp;One kickstart leader + one job card= lifetime of hassle free job seeking</h4>
+
+
+ <!--    <div class="row">
+      
       <div class="grid_2">
         <div class="text2 color1"><a href="#"></a></div>
       </div>
@@ -90,7 +97,7 @@
         <div class="text2 color1"><a href="#">Nolutpaersa fert</a></div>Curabitur vel lorem sitmet nulla ullamcorper mentum In vitae dert rius augue, eu consectetur ligulaam dui eros dertolisce dertoloing quam id risus sagittis
       </div>
     </div>
-  </div>
+  </div> -->
  </div>
 </section>
 <!-- Footer Start-->

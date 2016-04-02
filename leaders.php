@@ -75,16 +75,16 @@
         <div class="text2 color1" align="center"></div>  
       </div>
       <div class="grid_2">
-        <div class="text2 color1"><img src="images/dummy.jpg"></div> Full Name <br> Area
+        <div class="text2 color1"><img src="images/dummy.jpg"></div><b> Hitesh Kumar</b> <br> Field Executive<br>Trilok Puri New Delhi
       </div>
       <div class="grid_2">
-        <div class="text2 color1"><img src="images/dummy.jpg"></div> Full Name <br> Area
+        <div class="text2 color1"><img src="images/dummy.jpg"></div> Rahul Bhati <br> Field Executive<br>Mayur Vihar Phase-1 New Delhi
       </div>
       <div class="grid_2">
-        <div class="text2 color1"><img src="images/dummy.jpg"></div> Full Name <br> Area
+        <div class="text2 color1"><img src="images/dummy.jpg"></div> Yatender Pal Singh <br> Team Leader <br>Ghaziabad
       </div>
       <div class="grid_2">
-        <div class="text2 color1"><img src="images/dummy.jpg"></div> Full Name <br> Area
+        <div class="text2 color1"><img src="images/dummy.jpg"></div> Javed Khan <br> Sikanderpur <br>Gurgaon
       </div>
       <div class="grid_2">
         <div class="text2 color1"></div>
